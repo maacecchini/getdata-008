@@ -11,15 +11,23 @@ Finnaly the results were grouped by Subject_Id and Activity_Label and the measur
 Data description:
 
 1) "Subject_Id"
+
 Identification number of the subject (person) being measured (1 to 30)
 
 2) "Activity_Label"
+
 WALKING
+
 WALKING_UPSTAIRS
+
 WALKING_DOWNSTAIRS
+
 SITTING
+
 STANDING
+
 LAYING
+
 
 
 3. "tBodyAcc-mean()-X"           
