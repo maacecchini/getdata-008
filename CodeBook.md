@@ -65,5 +65,5 @@ CodeBook
 64."fBodyBodyAccJerkMag-std()"  
 65."fBodyBodyGyroMag-mean()"     
 66."fBodyBodyGyroMag-std()"     
-67."fBodyBodyGyroJerkMag-mean()" 
+67."fBodyBodyGyroJerkMag-mean()"
 68."fBodyBodyGyroJerkMag-std()" 
