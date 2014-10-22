@@ -102,3 +102,4 @@ tBodyAcc-std()-XYZ is the mean of original measurements (X_test, X_train) for tB
 67) "fBodyBodyGyroJerkMag-mean()"
 68) "fBodyBodyGyroJerkMag-std()" 
 
+
