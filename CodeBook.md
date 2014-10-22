@@ -16,19 +16,23 @@ Identification number of the subject (person) being measured (1 to 30)
 
 2) "Activity_Label"
 
-WALKING
+        WALKING
+        
+        WALKING_UPSTAIRS
+        
+        WALKING_DOWNSTAIRS
+        
+        SITTING
+        
+        STANDING
+        
+        LAYING
 
-WALKING_UPSTAIRS
+The following 66 columns should be interpreted as follows:
 
-WALKING_DOWNSTAIRS
+tBodyAcc-mean()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-mean()-XYZ, for Subject_Id and Activity_Label.
 
-SITTING
-
-STANDING
-
-LAYING
-
-
+tBodyAcc-std()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-std()-XYZ, for Subject_Id and Activity_Label.
 
 3. "tBodyAcc-mean()-X"           
 4. "tBodyAcc-mean()-Y"          
