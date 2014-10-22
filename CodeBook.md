@@ -1,4 +1,5 @@
 CodeBook
+
 This file contains the results of processing the datasets from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The columns corresponding to the mean and standard deviation from the experimental measurements files
@@ -34,17 +35,17 @@ tBodyAcc-mean()-XYZ is the mean of original measurements (X_test, X_train) for t
 
 tBodyAcc-std()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-std()-XYZ, for Subject_Id and Activity_Label.
 
-3. "tBodyAcc-mean()-X"           
-4. "tBodyAcc-mean()-Y"          
-5. "tBodyAcc-mean()-Z"          
-6. "tBodyAcc-std()-X"           
-7. "tBodyAcc-std()-Y"            
-8. "tBodyAcc-std()-Z"           
-9. "tGravityAcc-mean()-X"        
-10. "tGravityAcc-mean()-Y"       
-11."tGravityAcc-mean()-Z"        
-12."tGravityAcc-std()-X"        
-13."tGravityAcc-std()-Y"         
+3) "tBodyAcc-mean()-X"           
+4) "tBodyAcc-mean()-Y"          
+5) "tBodyAcc-mean()-Z"          
+6) "tBodyAcc-std()-X"           
+7) "tBodyAcc-std()-Y"            
+8) "tBodyAcc-std()-Z"           
+9) "tGravityAcc-mean()-X"        
+10) "tGravityAcc-mean()-Y"       
+11) "tGravityAcc-mean()-Z"        
+12) "tGravityAcc-std()-X"        
+13) "tGravityAcc-std()-Y"         
 14."tGravityAcc-std()-Z"        
 15."tBodyAccJerk-mean()-X"       
 16."tBodyAccJerk-mean()-Y"      
