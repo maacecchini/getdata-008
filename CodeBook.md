@@ -8,7 +8,8 @@ Then columns containing Subject_Id and Activity_Label were included as first and
 
 Finnaly the results were grouped by Subject_Id and Activity_Label and the measurements were summarized by mean. So the results in this file are the means of the mean and standard deviation from the original measurements.
 
-Data description
+Data description:
+
 1) "Subject_Id"
 Identification number of the subject (person) being measured (1 to 30)
 
@@ -19,6 +20,7 @@ WALKING_DOWNSTAIRS
 SITTING
 STANDING
 LAYING
+
 
 3. "tBodyAcc-mean()-X"           
 4. "tBodyAcc-mean()-Y"          
