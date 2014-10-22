@@ -2,12 +2,15 @@ CodeBook
 This file contains the results of processing the datasets from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The columns corresponding to the mean and standard deviation from the experimental measurements files
-(./test/X_test.txt and ./train/X_train.txt) were binded in only one data-frame. containing all the experimental data. Doing this the 561 original measurements (columns) were reduced to 66.
+(./test/X_test.txt and ./train/X_train.txt) were binded in only one data-frame, containing all the experimental data. Doing this the 561 original measurements (columns) were reduced to 66.
+
 Then columns containing Subject_Id and Activity_Label have were included as first and second columns in the dataframe.
-Then the results were grouped by Subject_Id and Activity_Label and the measurements were summarized by mean.
+
+Finnaly the results were grouped by Subject_Id and Activity_Label and the measurements were summarized by mean.
 
 Data description
 1. "Subject_Id"        - Identification number of the subject (person) being measured (1 to 30)
+2. 
 2. "Activity_Label"    -           
 3. "tBodyAcc-mean()-X"           
 4. "tBodyAcc-mean()-Y"          
