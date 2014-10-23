@@ -35,6 +35,8 @@ tBodyAcc-mean()-XYZ is the mean of original measurements (X_test, X_train) for t
                 
 tBodyAcc-std()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-std()-XYZ, for Subject_Id and Activity_Label.
 
+You should refer to the documentation in the original datasets in order to understand the meaning of each measurement.
+
 3) "tBodyAcc-mean()-X"           
 4) "tBodyAcc-mean()-Y"          
 5) "tBodyAcc-mean()-Z"          
