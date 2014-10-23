@@ -31,9 +31,9 @@ Identification number of the subject (person) being measured (1 to 30)
 
 The following 66 columns (3-68) should be interpreted as a generalization of:
 
-                tBodyAcc-mean()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-mean()-XYZ, for Subject_Id and Activity_Label.
+tBodyAcc-mean()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-mean()-XYZ, for Subject_Id and Activity_Label.
                 
-                tBodyAcc-std()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-std()-XYZ, for Subject_Id and Activity_Label.
+tBodyAcc-std()-XYZ is the mean of original measurements (X_test, X_train) for tBodyAcc-std()-XYZ, for Subject_Id and Activity_Label.
 
 3) "tBodyAcc-mean()-X"           
 4) "tBodyAcc-mean()-Y"          
